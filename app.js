@@ -5,7 +5,7 @@ const range = document.getElementById("jsRange");
 const mode = document.getElementById("jsMode");
 
 const INITIAL_COLOR = "black";
-const CANVAS_SIZE = 600;
+const CANVAS_SIZE = 610;
 
 canvas.width = CANVAS_SIZE;
 canvas.height = CANVAS_SIZE;
